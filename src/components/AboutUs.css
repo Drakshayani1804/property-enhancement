@@ -1,0 +1,29 @@
+/* src/components/AboutUs.css */
+
+.about-us-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .about-us-title {
+    margin-bottom: 20px;
+  }
+  
+  .about-us-description {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+  
+  .about-us-images {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .about-us-images img {
+    width: 100%;
+    max-width: 400px; /* Adjust the width as needed */
+    height: auto;
+  }
+  
