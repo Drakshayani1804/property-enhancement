@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/property-enhancement/static/css/main.7f02378a.css",
+    "main.js": "/property-enhancement/static/js/main.dbe93d46.js",
+    "static/js/453.e9b620d2.chunk.js": "/property-enhancement/static/js/453.e9b620d2.chunk.js",
+    "static/media/slick.svg": "/property-enhancement/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/property-enhancement/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/property-enhancement/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/property-enhancement/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/property-enhancement/index.html",
+    "main.7f02378a.css.map": "/property-enhancement/static/css/main.7f02378a.css.map",
+    "main.dbe93d46.js.map": "/property-enhancement/static/js/main.dbe93d46.js.map",
+    "453.e9b620d2.chunk.js.map": "/property-enhancement/static/js/453.e9b620d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f02378a.css",
+    "static/js/main.dbe93d46.js"
+  ]
+}
